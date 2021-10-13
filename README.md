@@ -1,6 +1,6 @@
 # Tugas Praktikum Machine Learning
 
-##DATA KELOMPOK
+#DATA KELOMPOK
 
 Ketua Kelompok   :Raffly Dwi Putra Wandani
 Anggota Kelompok : Bonnie Nabil Ayusman
