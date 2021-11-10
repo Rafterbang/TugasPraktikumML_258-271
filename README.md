@@ -2,7 +2,7 @@
 # Transfer Learning – VGG16  for Monkey Species Image Classification
 ## DATA KELOMPOK
 
-1. Raffly Dwi Putra Wandani.
+1. Raffly Dwi Putra Wandani. [leoraffly@webmail.umm.ac.id]
 2. Bonnie Nabil Ayusman [bonnieayusman@webmail.umm.ac.id](bonnieayusman@webmail.umm.ac.id)
 
 ## DATASET
